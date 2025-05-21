@@ -8,7 +8,7 @@ This project is a **beautiful, animated hamburger menu** built using **HTML, CSS
 
 ## 📽 Preview
 
-Youtube:- www.youtube.com/pixperry/
+Youtube:- http://www.youtube.com/@PixPerry
 
 
 ---
